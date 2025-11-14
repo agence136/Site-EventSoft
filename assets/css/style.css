@@ -7391,14 +7391,14 @@ footer .social-icon-circle.hover-light a:hover {
   display: flex; }
 
 .portfolio-crev .item {
-  width: 33.333%;
+  width: 50%;
   max-height: 90vh;
   height: 600px;
   margin: 0 4px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  cursor: pointer;
+  cursor: none;
   -webkit-transition: all .4s;
   -o-transition: all .4s;
   transition: all .4s; }
@@ -7467,7 +7467,8 @@ footer .social-icon-circle.hover-light a:hover {
 .portfolio-elegant .work-boxs {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+}
 
 .portfolio-elegant .item {
   width: 25%;
